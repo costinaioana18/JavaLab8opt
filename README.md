@@ -10,4 +10,5 @@ I completed the following optional tasks:
 - Displaying the rank of the artists, considering their positions in the charts. Everytime a chart is created, a certain value is added to the artist's rank, depending on the position their albums have in the chart.
 
 See the output8.jpg image in order to see the random generated data and the rank the artists have.
-See the chartsTable.jpg in order to see a random example that shows the way the chart table looks like
+
+See the chartsTable.jpg in order to see a random example that shows the way the chart table looks like.
